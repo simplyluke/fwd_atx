@@ -7,7 +7,7 @@
 /* Layout & global */
 
 body, html {
-  background-color: #e8632a;
+  background-color: #ecebe9;
   color: #fff;
   text-align: center;
 }
@@ -34,12 +34,14 @@ h1 {
   display: block;
   width: 100%;
   margin-top: -40px;
+  color: #369ff4;
 }
 
 h3 {
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #369ff4;
+  color: #e8632a;
   font-size: 4em;
+  margin-top: 32px;
 }
 
 
